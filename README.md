@@ -1,6 +1,11 @@
 # 💫 About Me:
- I am a full stack developer with expertise in using Django and Node.js for back-end development and React.js for front-end development.<br> I have a deep understanding of REST API development and can write high-quality APIs to power web applications.<br>In my career as a developer, I have worked on a variety of projects, ranging from e-commerce platforms to social media applications.<br> I am constantly learning and staying up-to-date with the latest technologies and techniques in the industry to ensure that I am providing the best possible solutions to my clients.<br>
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamdelnadry)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/killua#6217) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005553737349) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamdelnadry) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/m_elnadry) 
